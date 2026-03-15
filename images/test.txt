@@ -1,0 +1,5 @@
+restaurant-dining.jpg
+restaurant-interior.jpg
+restaurant-reception.jpg
+chole-bhature.jpg
+veg-pizza.jpg
